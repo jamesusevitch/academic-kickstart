@@ -71,6 +71,4 @@ user_groups:
 - Visitors
 ---
 
-James Usevitch is a PhD Candidate in the Aerospace Engineering Department at the University of Michigan. He began his studies in 2016. His main research focus is on algorithms which provably guarantee the safety and security of multi-agent cyber-physical systems.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+James Bryan Usevitch is a PhD Candidate in the Aerospace Engineering Department at the University of Michigan. His main research focus is on algorithms which provably guarantee the safety and security of multi-agent cyber-physical systems. His work has been published in several competitive, peer-reviewed conferences including the 56th, 57th, and 58th IEEE Conferences on Decision and Control, the 2017 and 2018 American Control Conferences, and the _Resilient Robot Teams: Composing, Acting, and Learning_ independent workshop at the 2019 IEEE International Conference on Robotics and Automation. He has written two journal papers which have been accepted for publication in the IEEE _Transactions on Automatic Control_ and in _Automatica_. James is a Student Member of the IEEE.

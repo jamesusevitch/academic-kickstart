@@ -18,27 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "PhD Candidate / Graduate Research Assistant"
+  company = "DASC Lab, University of Michigan"
+  company_url = "http://www-personal.umich.edu/~dpanagou/labs/index.html"
+  location = "Michigan"
+  date_start = "2016-07-06"
   date_end = ""
   description = """
-  Responsibilities include:
+  Perform cutting-edge research on control algorithms which preserve the safety and security of multi-agent systems. Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Submitting research papers to competitive conferences and journals
+  * Mentoring and directing teams of Masters students in creating multi-robot hardware and software demonstrations
+  * Procuring hardware and software solutions for simulations and hardware demonstrations
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Intern"
+  company = "Intelliserv - National Oilwell Varco"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Utah"
+  date_start = "2015-05-01"
+  date_end = "2016-02-01"
+  description = """
+  
+  Managed multiple technical documentation projects. Improved manufacturing process and reduced defect costs by over 50%. Standardized and increased effectiveness of over 65 manufacturing training documents. Decreased technical illustration creation time by over 40%.
+"""
 
 +++
