@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 4  # Order that this section will appear.
+weight = 6  # Order that this section will appear.
 
 title = ""
 subtitle = ""
@@ -47,9 +47,9 @@ subtitle = ""
  css_class = ""
 +++
 
-<center> <h1 style="font-size:60px;"> <span style='font-weight: bold;'> James Usevitch </span> </h1> </center>
+<!-- <center> <h1 style="font-size:60px;"> <span style='font-weight: bold;'> James Usevitch </span> </h1> </center>
 
-<center> <h2>PhD Candidate / Control Theorist</h2> </center>
+<center> <h2>PhD Candidate / Control Theorist</h2> </center> -->
 
 
 {{< figure library="true" src="robotsGIMP.jpg" lightbox="true" >}}
