@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -27,21 +27,45 @@ date_format = "Jan 2006"
   description = """
   Perform cutting-edge research on control algorithms which preserve the safety and security of multi-agent systems. Responsibilities include:
   
-  * Submitting research papers to competitive conferences and journals
-  * Mentoring and directing teams of Masters students in creating multi-robot hardware and software demonstrations
+  * Writing and submitting research publications to competitive, peer-reviewed conferences and journals
+  * Creating software solutions to implement cutting-edge multi-agent algorithm simulations in a Linux development environment using C++, Python, Matlab, and Robot Operating System (ROS)
+  * Leading and mentoring teams of Masters students in creating hardware and software demonstrations of multi-robot algorithms
   * Procuring hardware and software solutions for simulations and hardware demonstrations
   """
 
 [[experience]]
-  title = "Intern"
-  company = "Intelliserv - National Oilwell Varco"
+  title = "Engineering Technical Documentation Intern"
+  company = "National Oilwell Varco"
   company_url = ""
   location = "Utah"
   date_start = "2015-05-01"
   date_end = "2016-02-01"
   description = """
   
-  Managed multiple technical documentation projects. Improved manufacturing process and reduced defect costs by over 50%. Standardized and increased effectiveness of over 65 manufacturing training documents. Decreased technical illustration creation time by over 40%.
+  Responsible for maintaining accuracy and clarity of engineering documentation for data-enabled drilling equipment.
+
+Key Contributions:
+  * Improved manufacturing process and reduced defect costs by over 50%
+  * Standardized and increased effectiveness of over 65 manufacturing training documents
+  * Decreased technical illustration creation time by over 40%
+  * Independently managed multiple documentation projects simultaneously
 """
+
+[[experience]]
+  title = "Engineering Teaching Assistant"
+  company = "Brigham Young University"
+  company_url = ""
+  location = "Provo, Utah"
+  date_start = "2015-01-01"
+  date_end = "2016-04-01"
+  description = """
+  
+  Responsible for effectively communicating fundamental principles of manufacturing to undergraduate Engineering students.
+
+Key Contributions:
+  * Improved students’ abilities to use safety-critical manufacturing equipment including lathes, mills, band saws, and welding equipment
+  * Contributed substantial improvements to course materials See less
+"""
+ 
 
 +++
