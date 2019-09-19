@@ -58,8 +58,8 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "james@usevitch.com"
-phone = "734-489-1533"
+email = "usevitch@umich.edu"
+phone = "801-919-5136"
 address = "University of Michigan, Ann Arbor, MI"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
