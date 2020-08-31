@@ -23,8 +23,6 @@ bio: My research interests include safety and security of multi-agent systems, a
 interests:
 - Multi-agent Systems
 - Security of Cyber-Physical Systems
-- Multi-agent Planning
-- Artificial Intelligence
 
 education:
   courses:
@@ -33,7 +31,7 @@ education:
     year: 2021 (projected)
   - course: MEng in Aerospace Controls
     institution: University of Michigan
-    year: 2019 (projected)
+    year: 2021 (projected)
   - course: BSc in Mechanical Engineering
     institution: Brigham Young University
     year: 2016
@@ -71,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a PhD Candidate in the Aerospace Engineering Department at the University of Michigan. My advisor is Professor [Dimitra Panagou](http://www-personal.umich.edu/~dpanagou/index.html). My main research focus is on algorithms which provably guarantee the safety and security of multi-agent cyber-physical systems. My work has been published in several competitive, peer-reviewed conferences including the 56th, 57th, and 58th IEEE Conferences on Decision and Control, the 2017 and 2018 American Control Conferences, and the _Resilient Robot Teams: Composing, Acting, and Learning_ independent workshop at the 2019 IEEE International Conference on Robotics and Automation. My journal papers have been accepted for publication in the IEEE _Transactions on Automatic Control_ and in _Automatica_. I'm a Student Member of the IEEE.
+I'm a PhD Candidate in the Aerospace Engineering Department at the University of Michigan. My advisor is Professor [Dimitra Panagou](http://www-personal.umich.edu/~dpanagou/index.html). My main research focus is on algorithms which provably guarantee the safety and security of multi-agent cyber-physical systems. My work has been published in several competitive, peer-reviewed conferences including the 56th, 57th, and 58th IEEE Conferences on Decision and Control, the 2017 and 2018 American Control Conferences, and the _Resilient Robot Teams: Composing, Acting, and Learning_ independent workshop at the 2019 IEEE International Conference on Robotics and Automation. My journal papers have been published in the IEEE _Transactions on Automatic Control_ and in _Automatica_. I'm a Student Member of the IEEE.
 
 {{% staticref "files/Usevitch_James_Resume.pdf" %}}Download my Resume{{% /staticref %}}

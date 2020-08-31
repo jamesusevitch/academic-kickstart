@@ -18,10 +18,26 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Autonomous Systems Intern"
+  company = "The MITRE Corporation"
+  company_url = "https://www.mitre.org/"
+  location = "Ann Arbor, Michigan"
+  date_start = "2020-07-13"
+  date_end = ""
+  description = """
+  Implemented cutting-edge trajectory planning capabilities using occupancy grid methods and convex optimization techniques.
+
+  * Programmed state-of-the-art occupancy grid path planning algorithm (Jump Point Search)
+  * Reduced runtime of obstacle intersection algorithms by 10% via replacing optimization routine with closed-form intersection methods
+  * Created novel method for eliminating redundant halfspaces from polygons defined by halfspace intersections
+  """
+
+
+[[experience]]
   title = "PhD Candidate / Graduate Research Assistant"
   company = "DASC Lab, University of Michigan"
   company_url = "http://www-personal.umich.edu/~dpanagou/labs/index.html"
-  location = "Michigan"
+  location = "Ann Arbor, Michigan"
   date_start = "2016-07-06"
   date_end = ""
   description = """
