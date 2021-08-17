@@ -18,17 +18,29 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Technical Staff"
+  company = "MIT Lincoln Laboratory"
+  company_url = "https://www.ll.mit.edu/"
+  location = "Lexington, Massachusetts"
+  date_start = "2021-06-01"
+  date_end = ""
+  description = """
+  Developing state-of-the-art capabilities for multi-agent planning and autonomy using methods from control theory, temporal logic, mixed-integer programming, and artificial intelligence. Working in Group 36.
+  """
+
+[[experience]]
   title = "Autonomous Systems Intern"
   company = "The MITRE Corporation"
   company_url = "https://www.mitre.org/"
   location = "Ann Arbor, Michigan"
   date_start = "2020-07-13"
-  date_end = ""
+  date_end = "2020-09-01"
   description = """
-  Implemented cutting-edge trajectory planning capabilities using occupancy grid methods and convex optimization techniques.
+  Implemented cutting-edge trajectory planning capabilities using occupancy grid methods and convex optimization techniques. Key 
 
-  * Programmed state-of-the-art occupancy grid path planning algorithm (Jump Point Search)
-  * Reduced runtime of obstacle intersection algorithms by 10% via replacing optimization routine with closed-form intersection methods
+  * Programmed occupancy grid pathfinding/polygon trajectory corridor method for use on autonomous vehicle
+  * Pioneered novel modifications to state-of-the-art grid search algorithm resulting in 17x runtime speedup
+  * Achieved runtime reduction of 10% in obstacle intersection algorithms by replacing optimization routine with closed-form intersection methods
   * Created novel method for eliminating redundant halfspaces from polygons defined by halfspace intersections
   """
 
@@ -39,14 +51,16 @@ date_format = "Jan 2006"
   company_url = "http://www-personal.umich.edu/~dpanagou/labs/index.html"
   location = "Ann Arbor, Michigan"
   date_start = "2016-07-06"
-  date_end = ""
+  date_end = "2021-04-27"
   description = """
-  Perform cutting-edge research on control algorithms which preserve the safety and security of multi-agent systems. Responsibilities include:
-  
-  * Writing and submitting research publications to competitive, peer-reviewed conferences and journals
-  * Creating software solutions to implement cutting-edge multi-agent algorithm simulations in a Linux development environment using C++, Python, Matlab, and Robot Operating System (ROS)
-  * Leading and mentoring teams of Masters students in creating hardware and software demonstrations of multi-robot algorithms
-  * Procuring hardware and software solutions for simulations and hardware demonstrations
+  Performed cutting-edge research on control algorithms which provably preserve the safety and security of multi-agent systems.
+
+  * Developed and implemented leader-follower resilient trajectory tracking algorithm on six unmanned ground vehicles using C++, ROS, and Python in Ubuntu Linux environment
+  * Guided six master’s degree students in creating hardware and software demonstrations of multi-agent systems of unmanned ground and aerial vehicles using C++, Python, MATLAB, ROS in Linux environment
+  * Designed and implemented custom benchmarking framework which tested over 33,600 mixed-integer linear programming optimization problems using MATLAB parallel processing and optimization toolboxes
+  * Published two journal articles and eight peer-reviewed conference articles with novel results in security of multi-agent control systems
+  * Designed course materials and trained students in multi-agent control algorithms for graduate-level aerospace course
+  * Saved over $85,000 in hardware expenses by procuring UAV / UGV platforms at fraction of cost of prior lab equipment while maintaining quality standards
   """
 
 [[experience]]

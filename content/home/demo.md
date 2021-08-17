@@ -52,6 +52,6 @@ subtitle = ""
 <center> <h2>PhD Candidate / Control Theorist</h2> </center> -->
 
 
-{{< figure library="true" src="robotsGIMP.jpg" lightbox="true" >}}
+<!-- {{< figure library="true" src="robotsGIMP.jpg" lightbox="true" >}} -->
 
 
